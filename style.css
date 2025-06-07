@@ -1,0 +1,82 @@
+        body{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding:0;
+            margin:0;
+            background-color:beige;
+            color:rgb(255, 255, 255);
+        }
+
+        h1{
+            
+            text-shadow: #2f3640 0 1px 1px;
+        }
+
+        header{
+            background-color: #e84118;
+            color:white;
+            padding:40px;
+            text-align: center;
+            box-shadow: 0 4px 4px #7f8fa6;
+        }
+
+        nav a{
+            color:rgb(255, 255, 255);
+            margin: 0 20px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: color 0.4s;
+        }
+
+        nav a:hover{
+            color:#2f3640;
+        }
+
+        section{
+            box-shadow: 0 4px 12px #e84118;
+            background-color: #ffffff;
+            padding: 15px;
+            margin: 20px auto;
+            max-width: 800px;
+            border-radius:6px;
+        }
+
+        h2{
+            color:#192a56;
+        }
+        p{
+            color:#1B1464;
+            font-size: 18px;
+        }
+        footer{
+            box-shadow: 0 4px 4px #7f8fa6;
+            padding: 10px;
+            background-color: #e84118;
+            color:aliceblue;
+            text-align: center;
+        }
+        footer p{
+            color:#ffffff;
+            font-weight: bold;
+        }
+        ul{
+            list-style: square;
+            padding:20px;
+        }
+        a{
+            color:#009432;
+            font-style: italic;
+            
+        }
+        #projects li{
+            color:#2f3640;
+            font-size: large;
+            padding:10px;
+        }
+        #profiles li{
+            color:#2f3640;
+            padding:10px;
+            font-size:large;
+        }
+        #link a{
+            text-shadow: #2f3640 0 1px 1px;
+        }
