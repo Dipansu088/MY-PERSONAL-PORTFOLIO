@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-##DESCRIPTION
+## DESCRIPTION
 
 This project is a personal portfolio website created using only HTML and CSS, designed to introduce and showcase the work and skills of myself. Despite its simplicity, this portfolio feels clean, professional, and thoughtfully structured.
 
@@ -59,14 +59,14 @@ This Personal Portfolio itself (meta!).
 
 An E-Learning Platform UI.
 
-These links provide real proof of work and give visitors an opportunity to explore the code behind the skills mentioned earlier. This also encourages a practice known as “live portfolio validation,” where anyone interested can immediately check out your GitHub contributions.
+These links provide real proof of work and allow visitors to explore the code behind the skills mentioned earlier. This also encourages a practice known as “live portfolio validation,” where anyone interested can immediately check out your GitHub contributions.
 
 Contact & Profiles
 The last few sections offer a basic contact email and spots for social profiles like GitHub and LinkedIn. While the links are currently empty, placeholders are already set up, making it easy to plug in real URLs later.
 
 Even though the portfolio is static and minimal, it anticipates real-world needs like professional networking and outreach.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/460794fb-32e7-444a-954c-b73cab9622ad)
 
