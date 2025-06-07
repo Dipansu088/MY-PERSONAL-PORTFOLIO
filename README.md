@@ -33,7 +33,7 @@ Projects: A bulleted list of recent or important projects, each with a link to i
 
 Contact & Profiles: Shows an email (currently a placeholder) and spots for social links like LinkedIn and GitHub.
 
-The HTML is semantically correct and very readable. Each section uses <section> tags and IDs to make navigation smooth. The text is wrapped in logical containers and follows proper hierarchy with headers (<h1>, <h2>) and paragraphs (<p>), making it beginner-friendly and accessible.
+The HTML is semantically correct and very readable. Each section uses <section> tags and IDs to make navigation smooth. The text is wrapped in logical containers and follows proper hierarchy with headers  (<h1>, <h2>) and paragraphs (<p>), making it beginner-friendly and accessible.
 
 Styling with CSS
 The styling comes from an external stylesheet called style.css. This file takes care of all visual details—color, spacing, fonts, and hover effects.
