@@ -67,3 +67,9 @@ Contact & Profiles
 The last few sections offer a basic contact email and spots for social profiles like GitHub and LinkedIn. While the links are currently empty, placeholders are already set up, making it easy to plug in real URLs later.
 
 This area is a great example of forward-thinking. Even though the portfolio is static and minimal, it anticipates real-world needs like professional networking and outreach.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/460794fb-32e7-444a-954c-b73cab9622ad)
+
+
